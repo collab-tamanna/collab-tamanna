@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tamanna Darwai
 
-**B.Tech graduate in AI & Data Science** | Data Analyst Fresher | Bhopal, India
+**B.Tech graduate in AI & Data Science** | Artificial Intelligence Fresher | Bhopal, India
 
 I turn raw data into business decisions — through SQL pipelines, Python analysis, and BI dashboards.
 Currently open to **Data Analyst** roles (fresher / entry-level).
