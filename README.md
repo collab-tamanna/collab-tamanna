@@ -12,7 +12,7 @@
 
 ### About
 
-I graduated in Artificial Intelligence & Data Science from Samrat Ashok Technological Institute, Vidisha (CGPA 8.14/10). Most of what I build sits somewhere between a model and a product — I don't think a notebook is finished until it's behind an API or on a dashboard someone actually opens.
+I graduated in Artificial Intelligence & Data Science from Samrat Ashok Technological Institute, Vidisha (CGPA 8.14/10). Most of what I build sits somewhere between a model and a product, I don't think a notebook is finished until it's behind an API or on a dashboard someone actually opens.
 
 That's shown up in a few different forms: a Transfer Learning DCNN for disease detection served through FastAPI and a React frontend, a credit risk model that scores default probability in real time, and Power BI dashboards built to replace a few hours of manual reporting each week. I move between the ML side and the analytics side depending on what a problem calls for, and I like SQL enough that a good window function still feels satisfying to write.
 
