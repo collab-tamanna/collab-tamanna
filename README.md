@@ -34,7 +34,7 @@ Outside of projects, I solve a fair number of problems on LeetCode (320+ so far,
 
 ### Projects
 
-**[AarogyaShree – AI-based Disease Detection Platform](https://github.com/collab-tamanna/AarogyaShree)**
+**AarogyaShree – AI-based Disease Detection Platform**
 Python, TensorFlow, FastAPI, React
 
 A full-stack system for Breast Cancer, Cervical Cancer, and PCOS/PCOD detection, built around a fine-tuned Transfer Learning DCNN trained on clinical image data. Kept the ML inference, API, and UI as three separate layers so each could be built and debugged on its own rather than as one tangled pipeline. Presented at NCACSIT-2025.
@@ -49,7 +49,7 @@ Python, SQL
 
 Took 15,000+ raw e-commerce records through SQL extraction, Python-based cleaning, and cohort/RFM segmentation to find which customers were actually driving revenue. The top 20% of customers accounted for a disproportionate share of it, which shaped the retention recommendations that came out of the analysis.
 
-**[Network Intrusion Detection System](https://github.com/collab-tamanna/NetworkSecurity)** — [live demo](https://networksecurity-app-pvvr.onrender.com/)
+**Network Intrusion Detection System**
 Flask, Scikit-learn, MongoDB, Docker
 
 A supervised classifier for flagging anomalous network traffic, with MongoDB handling log storage and the whole thing containerized and deployed for real-time predictions.
